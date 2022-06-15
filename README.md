@@ -9,3 +9,6 @@ The Hong Kong University of Science and Technology
 
 # Week 3 
 *    In financial analysis, we always infer the real mean return of stocks, or equity funds, based on the historical data of a couple years. This situation is in line with a core part of statistics - Statistical Inference - which we also base on sample data to infer the population of a target variable.In this module, you are going to understand the basic concept of statistical inference such as population, samples and random sampling. In the second part of the module, we shall estimate the range of mean return of a stock using a concept called confidence interval, after we understand the distribution of sample mean.We will also testify the claim of investment return using another statistical concept - hypothesis testing.
+
+# Week 4 
+*    In this module, we will explore the most often used prediction method - linear regression. From learning the association of random variables to simple and multiple linear regression model, we finally come to the most interesting part of this course: we will build a model using multiple indices from the global markets and predict the price change of an ETF of S&P500. In addition to building a stock trading model, it is also great fun to test the performance of your own models, which I will also show you how to evaluate them!
